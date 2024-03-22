@@ -1,1 +1,1 @@
-![Merlijnos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merlijnos&hide=contribs,prs&show_icons=true&theme=github_dark )
+![Merlijnos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merlijnos&hide=contribs,prs&show_icons=true&theme=github_dark&hide_rank=true)
